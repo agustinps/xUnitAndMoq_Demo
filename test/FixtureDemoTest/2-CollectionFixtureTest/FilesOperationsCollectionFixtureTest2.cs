@@ -4,11 +4,11 @@ using Utilities;
 namespace FixtureDemoTest._2_CollectionFixtureTest
 {
     [Collection("CollectionDirectory")]
-    public class FilesOperationsCollectionFixture_2
+    public class FilesOperationsCollectionFixtureTest2
     {
         private readonly DirectoryFixture directoryFixture;
 
-        public FilesOperationsCollectionFixture_2(DirectoryFixture directoryFixture)
+        public FilesOperationsCollectionFixtureTest2(DirectoryFixture directoryFixture)
         {
             this.directoryFixture = directoryFixture;
         }

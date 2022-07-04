@@ -8,12 +8,20 @@ Actualmente en desarrollo.... Se irá añadiendo código según se complete.
 
 ### 1. TheoryDemoTest
 
-Se muestran ejemplos de uso para *InlineData, ClassData, MemberData* y *CustomData*.
+Muestran ejemplos de uso para *InlineData, ClassData, MemberData* y *CustomData*.
 
 ### 2. FixtureDemoTest
 
-se muestra como utilizar los accesorios con *ClassFixture* y *CollectionFixture*, así cmo del uso de *AsynLifeTime*.
+Muestra como utilizar los accesorios con *ClassFixture* y *CollectionFixture*, así cmo del uso de *AsynLifeTime*.
 
 ### 3. BeforeAfterInteceptorDemoTest
 
-se muestra como utilizar los interceptores para ejecutar acciones antes o despues de nuestras pruebas.
+Muestra como utilizar los interceptores para ejecutar acciones antes o despues de nuestras pruebas.
+
+### 4. AsyncLifeTimeDemoTest
+
+Muestra como utilizar la interfaz IAsyncLifeTime para utilizar inicializaciónes asincronas.
+
+### 5. MoqDemoTest
+
+Muestra como reemplazar objetos con Moq
