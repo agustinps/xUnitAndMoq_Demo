@@ -24,4 +24,8 @@ Muestra como utilizar la interfaz IAsyncLifeTime para utilizar inicializaciónes
 
 ### 5. MoqDemoTest
 
-Muestra como reemplazar objetos con Moq
+Muestra como reemplazar objetos con Moq probando ProductController del proyecto ProductsApi.
+
+### 6. Fluent Assertions
+
+Ejemplos de aserciones fluidas  (Pendiente de completar)
